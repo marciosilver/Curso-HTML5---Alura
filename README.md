@@ -1,3 +1,3 @@
-<h2 align="center"> Curso-HTML5--Alura </h2>
+<h1 align="center"> Curso-HTML5--Alura </h1>
 
-<h1>Marcação do primeiro texto</h1>
+<h2>Marcação do primeiro texto</h2>
