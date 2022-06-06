@@ -1,6 +1,7 @@
 <h1 align="center"> Curso-HTML5--Alura </h1>
 
 <h2> Marcação do primeiro texto </h2>
+
 Uma introdução ao HTML e às suas tags
 Como definir o título e os parágrafos de um texto
 Utilizando as tags <h1> e <p>, respectivamente
